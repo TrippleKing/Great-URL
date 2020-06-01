@@ -18,9 +18,10 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 
 ------
 
-**LightGBM模型调参详解**：学会使用LightGBM，看它就够了（非模型原理简介）
+**LightGBM模型调参详解**：
 
-- URL：[http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/lightgbm/chapters/lightgbm_usage.html](http://www.huaxiaozhuan.com/工具/lightgbm/chapters/lightgbm_usage.html)
+- 学会使用LightGBM，看它就够了（非模型原理简介）
+  - URL：[http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/lightgbm/chapters/lightgbm_usage.html](http://www.huaxiaozhuan.com/工具/lightgbm/chapters/lightgbm_usage.html)
 
 ------
 
@@ -45,10 +46,9 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 
 **机器学习代码实战**：
 
--  李航《统计学习方法》的代码复现，四个高star仓库，风格不一
+- 李航《统计学习方法》的代码复现，四个高star仓库，风格不一
 
-  - URL: [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
-
+  - [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
   - [https://github.com/WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)                
 
   - [https://github.com/Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
