@@ -12,9 +12,9 @@ Great URL
 
 ## 项目贡献者
 
-Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰楠
+Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰楠、Datawhale-小狼狗
 
-## 项目内容（2020.05.31第一次更新）
+## 项目内容（2020.06.08第二次更新）
 
 ------
 
@@ -50,7 +50,38 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 
   - [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
   - [https://github.com/WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)                
-
+  
   - [https://github.com/Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
-
+  
   - [https://github.com/SmirkCao/Lihang](https://github.com/SmirkCao/Lihang)
+
+------
+
+**C/C++编程语言学习**：
+
+- 中国大学MOOC优质课程，本课程是由北京大学郭炜老师讲授，深入浅出，对C++程序语言进行了全面的讲解，对于新手入门是一个不错的选择，但是视频课程有点长，需要有耐心，有毅力。
+
+  - [程序设计与算法（一）C语言程序设计](https://www.bilibili.com/video/BV1h54y197NU?from=search&seid=3818865315939946473)
+  - [程序设计与算法（二）算法基础](https://www.bilibili.com/video/BV1Zb411q7iY)
+  - [程序设计与算法（三）C++面向对象程序设计](https://www.bilibili.com/video/BV1ob411q7vb)
+
+------
+
+**资源整合**：
+
+- ["全资源"汇总](http://ilxdh.com/)
+- [新媒体内容汇总](https://www.kaolamedia.com/)
+- [可视化方案汇总](https://www.visualcapitalist.com/)：
+- [统计可视化](https://seeing-theory.brown.edu/cn.html#firstPage)：致力于用数据可视化让统计概念更容易理解
+- [卷积神经网络CNN可视化工具](https://poloclub.github.io/cnn-explainer/)
+- [全连接神经网络训练可视化](https://playground.tensorflow.org/)
+- [全球全历史知识汇总](https://www.allhistory.com/)：了解全球历史看这里就够了！
+- [PPT免费模板](https://slidesgo.com/)：高质量PPT模板
+- [设计类资源汇总](https://vis.baidu.com/chartusage/overview/)：设计灵感从这里迸发
+- [摄影设备评分](https://www.dxomark.com/)：包括手机与单反
+- [360度全景图](http://airpano.org.cn/)：Web端环游世界
+- [IT类电子书检索](https://it-ebooks.info/)
+- [全网电子书检索](https://www.jiumodiary.com/)
+- [在线世界名画](https://gallerix.asia/)：培养艺术细胞0.0
+- [谷歌数字化艺术](https://artsandculture.google.com/category/artist)
+
