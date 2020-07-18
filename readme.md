@@ -45,7 +45,6 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
     - URL: [https://sites.google.com/view/data-science-covid-19/data-and-resources](https://sites.google.com/view/data-science-covid-19/data-and-resources)
   - COVID-19相关的医学对话数据集（中英文），包括患者自述和医生建议内容
     - URL: [https://github.com/UCSD-AI4H/COVID-Dialogue](https://github.com/UCSD-AI4H/COVID-Dialogue)
-  - 
 
 ------
 
