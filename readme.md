@@ -14,7 +14,7 @@ Great URL
 
 Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰楠、Datawhale-小狼狗
 
-## 项目内容（2020.06.08第二次更新）
+## 项目内容（2020.07.18第二次更新）
 
 ------
 
@@ -29,18 +29,23 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 
 - NLP可以用到的数据库集合，包括了多个语言及多种方向的400多个免费语料库（其中链接来自于Github、kaggle和各种数据开源组织），大部分无需科学上网
   - URL：[https://datasets.quantumstat.com/](https://datasets.quantumstat.com/)
-
 - 天池竞赛平台，数据集包括用户行为数据，点击购买数据及气象交通预测等。（如果研究用户购买预测需要相关数据，天池平台是个不错的选择）
   - URL: [https://tianchi.aliyun.com/dataset/?spm=5176.12281949.J_9711814210.19.493e2448nxhV3p](https://tianchi.aliyun.com/dataset/?spm=5176.12281949.J_9711814210.19.493e2448nxhV3p)
-
 - Kaggle平台数据集，数据集涵盖广泛，有许多经典数据集例如泰坦尼克号数据集，适合新手上道
   - URL: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
-
 - 较为全面的大数据平台
   - URL: [http://hao.199it.com/](http://hao.199it.com/)
-
 - UCI数据集作为标准测试数据集经常出现在许多机器学习的论文中
+  
   - URL: [https://archive.ics.uci.edu/ml/index.php](https://archive.ics.uci.edu/ml/index.php)
+- COVID-19相关数据集
+  - COVID-19推特推文数据集（需要使用工具处理才能拿到内容）
+    - URL: [https://github.com/thepanacealab/covid19_twitter](https://github.com/thepanacealab/covid19_twitter)
+  - 斯坦福CS472数据科学与Ai课程及项目数据（课程内容本身就是对COVID-19进行调查和建模）
+    - URL: [https://sites.google.com/view/data-science-covid-19/data-and-resources](https://sites.google.com/view/data-science-covid-19/data-and-resources)
+  - COVID-19相关的医学对话数据集（中英文），包括患者自述和医生建议内容
+    - URL: [https://github.com/UCSD-AI4H/COVID-Dialogue](https://github.com/UCSD-AI4H/COVID-Dialogue)
+  - 
 
 ------
 
@@ -67,7 +72,18 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 
 ------
 
-**资源整合**：
+**电子书检索**
+
+- 全网电子书检索
+  - URL: [https://www.jiumodiary.com/](https://www.jiumodiary.com/)
+- IT类电子书检索
+  - URL: [https://it-ebooks.info/](https://it-ebooks.info/)
+- 可供免费下载电子书（不妨搜一搜，说不定有呢）
+  - URL: [https://epdf.pub/en/](https://epdf.pub/en/)
+
+----
+
+**待整合资源**：
 
 - ["全资源"汇总](http://ilxdh.com/)
 - [新媒体内容汇总](https://www.kaolamedia.com/)
@@ -80,8 +96,6 @@ Datawhale-小鲸鲸、Datawhale-追光、Datawhale-小豹纸、Datawhale-杨冰�
 - [设计类资源汇总](https://vis.baidu.com/chartusage/overview/)：设计灵感从这里迸发
 - [摄影设备评分](https://www.dxomark.com/)：包括手机与单反
 - [360度全景图](http://airpano.org.cn/)：Web端环游世界
-- [IT类电子书检索](https://it-ebooks.info/)
-- [全网电子书检索](https://www.jiumodiary.com/)
 - [在线世界名画](https://gallerix.asia/)：培养艺术细胞0.0
 - [谷歌数字化艺术](https://artsandculture.google.com/category/artist)
 
